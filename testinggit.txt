@@ -1,2 +1,4 @@
 trying git for the first time
 new file of testing git
+1st commit 
+2nd Commit
